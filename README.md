@@ -26,6 +26,9 @@ Things I need to watch/read and learn:
 - [ ] Find java course that will deepen my understanding of Java
     - [ ] How does Java compile
     - [ ] How does JVM work
+    - [ ] IntStream and others
+    - [ ] Functional interfaces - https://www.baeldung.com/java-8-functional-interfaces
+    - [ ] Thread
 
 - Design patterns (Learn and implement)
     - [ ] Strategy
@@ -37,3 +40,10 @@ Things I need to watch/read and learn:
 - Learn more about general programming concepts
     - [ ] SOLID
     - [ ] Paradigms of OOP
+    
+- Learn more about advance GIT:
+    - [ ] ...
+    
+- Learn more about testing:
+    - [ ] Groovy + Spock
+    - [ ] JUnit
