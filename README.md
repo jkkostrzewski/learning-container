@@ -5,7 +5,7 @@ This list should take on length with time.
 Things I need to watch/read and learn:
 
 - Javafaktura season 1:
-    - [ ] S01E02 - Optionale i streamy
+    - [x] S01E02 - Optionale i streamy
     - [ ] S01E03 - Przetwarzanie współbieżne w Javie
     - [ ] S01E04 - Wzorce projektowe
     - [ ] S01E05 - Testowanie w Javie na przykładzie JUnit5
@@ -26,8 +26,8 @@ Things I need to watch/read and learn:
 - [ ] Find java course that will deepen my understanding of Java
     - [ ] How does Java compile
     - [ ] How does JVM work
-    - [ ] IntStream and others
-    - [ ] Functional interfaces - https://www.baeldung.com/java-8-functional-interfaces
+    - [x] IntStream and others
+    - [x] Functional interfaces - https://www.baeldung.com/java-8-functional-interfaces
     - [ ] Thread
 
 - Design patterns (Learn and implement)
