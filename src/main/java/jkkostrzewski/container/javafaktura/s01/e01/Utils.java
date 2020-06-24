@@ -1,4 +1,4 @@
-package jkkostrzewski.container.javafaktura.s01;
+package jkkostrzewski.container.javafaktura.s01.e01;
 
 import java.util.Collection;
 import java.util.Map;

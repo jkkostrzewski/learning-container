@@ -2,12 +2,11 @@ This repository was created in order to help me archive all the concepts that
 I learn and to motivate me to improve by check marking things I already learned.
 This list should take on length with time.
 
-Java:
-- 
+Things I need to watch/read and learn:
 
 - Javafaktura season 1:
     - [x] S01E02 - Optionale i streamy
-    - [x] S01E03 - Przetwarzanie współbieżne w Javie
+    - [ ] S01E03 - Przetwarzanie współbieżne w Javie
     - [ ] S01E04 - Wzorce projektowe
     - [ ] S01E05 - Testowanie w Javie na przykładzie JUnit5
     - [ ] S01E06 - Zmiany w kluczowych pakietach JDK
@@ -24,37 +23,27 @@ Java:
     - [ ] S02E07 - Spring weblux? A komu to potrzebne
     - [ ] S02E08 - zAOPiekuj się mną, mocno tak!
     
-- Concepts
+- [ ] Find java course that will deepen my understanding of Java
     - [ ] How does Java compile
     - [ ] How does JVM work
-    - [x] IntStream and others - javafaktura.s01.e02 package
-    - [x] Functional interfaces - javafaktura.s01.e02 package
-    - [x] Thread - javafaktura.s01.e03 package
-    - [ ] CompletableFuture - javafaktura.s01.e03 package - !!TODO!!
-    - [x] Atomic variables - javafaktura.s01.e03 package
-    - [ ] Checked and unchecked exceptions
-    - [ ] SOLID
-    - [ ] Paradigms of OOP
-    - [ ] Docker
-    - [ ] Microservices
+    - [x] IntStream and others
+    - [x] Functional interfaces - https://www.baeldung.com/java-8-functional-interfaces
+    - [ ] Thread
 
 - Design patterns (Learn and implement)
     - [ ] Strategy
     - [ ] Factory
     - [ ] ...
     
+- [ ] Learn about a concept of reactive programming
+
+- Learn more about general programming concepts
+    - [ ] SOLID
+    - [ ] Paradigms of OOP
+    
+- Learn more about advance GIT:
+    - [ ] ...
+    
 - Learn more about testing:
     - [ ] Groovy + Spock
     - [ ] JUnit
-    
-- [ ] Learn about a concept of reactive programming
-    
-GIT
-- 
-- [ ] ...
-
-
-Databases
--
-- [ ] Transactions
-    
