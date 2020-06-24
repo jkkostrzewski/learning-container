@@ -1,4 +1,6 @@
-package jkkostrzewski.container.javafaktura.s01.e01;
+package jkkostrzewski.container.javafaktura.s01.e02;
+
+import jkkostrzewski.container.javafaktura.s01.Utils;
 
 import java.math.BigInteger;
 import java.util.Random;

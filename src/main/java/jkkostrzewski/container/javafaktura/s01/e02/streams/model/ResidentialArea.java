@@ -1,4 +1,4 @@
-package jkkostrzewski.container.javafaktura.s01.e01.streams.model;
+package jkkostrzewski.container.javafaktura.s01.e02.streams.model;
 
 import java.util.List;
 

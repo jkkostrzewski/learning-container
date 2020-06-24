@@ -1,10 +1,10 @@
-package jkkostrzewski.container.javafaktura.s01.e01.streams;
+package jkkostrzewski.container.javafaktura.s01.e02.streams;
 
-import jkkostrzewski.container.javafaktura.s01.e01.Utils;
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Block;
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Floor;
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Person;
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Sex;
+import jkkostrzewski.container.javafaktura.s01.Utils;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Block;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Floor;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Person;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Sex;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -18,9 +18,9 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;
 import static java.util.stream.Collectors.toList;
-import static jkkostrzewski.container.javafaktura.s01.e01.Utils.printStream;
-import static jkkostrzewski.container.javafaktura.s01.e01.Utils.printCollection;
-import static jkkostrzewski.container.javafaktura.s01.e01.Utils.printMap;
+import static jkkostrzewski.container.javafaktura.s01.Utils.printStream;
+import static jkkostrzewski.container.javafaktura.s01.Utils.printCollection;
+import static jkkostrzewski.container.javafaktura.s01.Utils.printMap;
 
 public class Streams {
     public static void main(String[] args) {
