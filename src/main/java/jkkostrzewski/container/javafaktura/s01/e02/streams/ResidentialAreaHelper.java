@@ -1,7 +1,7 @@
-package jkkostrzewski.container.javafaktura.s01.e01.streams;
+package jkkostrzewski.container.javafaktura.s01.e02.streams;
 
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Block;
-import jkkostrzewski.container.javafaktura.s01.e01.streams.model.Person;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Block;
+import jkkostrzewski.container.javafaktura.s01.e02.streams.model.Person;
 
 import java.util.List;
 import java.util.Random;
